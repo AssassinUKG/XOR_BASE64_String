@@ -32,3 +32,10 @@ Copy the xor function or include it in your script!
 
 ![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/86664730-4a3d-42ea-b10f-932110509bbd)
 
+### Before
+
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/7a517bf5-d56a-4b7d-ac28-67d70eedba2e)
+
+### After
+
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/3911dc5d-8662-410a-9c81-6506dbf2bfa8)
