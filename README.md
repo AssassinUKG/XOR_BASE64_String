@@ -39,3 +39,9 @@ Copy the xor function or include it in your script!
 ### After
 
 ![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/3911dc5d-8662-410a-9c81-6506dbf2bfa8)
+
+
+Decode with CyberChef
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/c98d4d60-1f3f-4df8-aef5-f8f881a5c60f)
+
+
