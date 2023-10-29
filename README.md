@@ -1,5 +1,8 @@
 # XOR_Base64_String
-A xor and base64 routine for powershell
+An xor and base64 routine for PowerShell
+
+Beneficial for incorporation into scripts to obfuscate specific terms from detection
+
 
 ## Usage
 ```powershell
@@ -16,6 +19,9 @@ $base64XoredString = XOR_String -string $base64XoredString -key $key
 $base64XoredString
 ```
 
-```
+## Encode/Decode
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/95d3c1f1-4387-4ec9-aff2-66aa3c45dac5)
 
-```
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/7dcb548b-cd9b-4211-9fad-81bfe55655b9)
+
+
