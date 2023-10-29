@@ -5,10 +5,11 @@ This module is ideal for integrating into scripts where there's a need to obscur
 
 > Note: The base64 was selected to handle the characters that the terminal can't display fully. 
 
+
 ## Usage
 ```powershell
 $string = "hello, This is a test"
-$key = "Th1s1sMyK3y"
+$key = "Th1s1sMyK3y" # Don't Forget to change the key!
 
 # XOR the string and encode to Base64
 $base64XoredString = XOR_String -string $string -key $key
@@ -25,4 +26,9 @@ $base64XoredString
 
 ![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/7dcb548b-cd9b-4211-9fad-81bfe55655b9)
 
+
+## Amsiutls example
+Copy the xor function or include it in your script!
+
+![image](https://github.com/AssassinUKG/XOR_BASE64_String/assets/5285547/86664730-4a3d-42ea-b10f-932110509bbd)
 
