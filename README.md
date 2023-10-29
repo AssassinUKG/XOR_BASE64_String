@@ -2,7 +2,7 @@
 A xor and base64 routine for powershell
 
 ## Usage
-```
+```powershell
 $string = "hello, This is a test"
 $key = "Th1s1sMyK3y"
 
