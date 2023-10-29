@@ -1,3 +1,13 @@
+<#
+    Script Name: XOR Base64 Encoder
+    Author: Richard Jones
+    Date Created: 29/10/2023
+    Description: A PowerShell function for performing XOR operations followed by Base64 encoding. 
+                 Ideal for integrating into scripts to obscure specific terms from detection, 
+                 thereby enhancing the security posture of your code.
+#>
+
+
 function XOR_Base64_String {
     param (
         [string]$string,
