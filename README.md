@@ -1,8 +1,7 @@
 # XOR_Base64_String
-An xor and base64 routine for PowerShell
+A PowerShell module for performing XOR operations followed by Base64 encoding.
 
-Beneficial for incorporation into scripts to obfuscate specific terms from detection
-
+This module is ideal for integrating into scripts where there's a need to obscure certain terms from being detected, enhancing the security posture of your code.
 
 ## Usage
 ```powershell
