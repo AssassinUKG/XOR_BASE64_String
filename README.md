@@ -3,6 +3,8 @@ A PowerShell module for performing XOR operations followed by Base64 encoding.
 
 This module is ideal for integrating into scripts where there's a need to obscure certain terms from being detected, enhancing the security posture of your code.
 
+> Note: The base64 was selected to handle the characters that the terminal can't display fully. 
+
 ## Usage
 ```powershell
 $string = "hello, This is a test"
